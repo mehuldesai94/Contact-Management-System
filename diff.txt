@@ -1,0 +1,10 @@
+
+In line number 54 of your output:
+The output should be:
+Please enter the contact's apartment number: 11
+But your output is: 
+Please enter the contact's appartment number: 11
+                             ^
+-----------------------------|
+Professor's character ASCII code: hex(61), dec(97)
+un-matched character ASCII code: hex(70), dec(112)

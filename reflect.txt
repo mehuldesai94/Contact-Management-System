@@ -1,0 +1,10 @@
+Question 3. Briefly explain how the two functions findContactIndex and getTenDigitPhone benefit your source code with respect to overall maintenance and readability.
+Answer: Both function reduce complexcity of code. Instead of re-writer same code more than one time, make function of repeted code. same think we do on those two functions.
+		Whenever i need this functions I just call functions with appropriate argguments insted of re-writer same code.
+		
+Question 4. What did you learn most from doing Assignment 2?
+Answer: I learn many thinks as following:
+		1. Put some basic function in different file so I can use those funcions anywhere in my program.
+		2. Instead of re-writing a code make funcions.
+		3. 'safeguard' lines.
+		4. Divide whole program base on small functionalities(AddContacts, UpdateContacts, DeleteContacts, etc.).
